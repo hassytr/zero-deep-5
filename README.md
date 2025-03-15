@@ -2,7 +2,7 @@
 ゼロから作るDeep Learning⑤のコードを手動で実装
 
 ## 進捗状況
-- [ ] Step 1
+- [x] Step 1
 - [ ] Step 2
 - [ ] Step 3
 - [ ] Step 4
